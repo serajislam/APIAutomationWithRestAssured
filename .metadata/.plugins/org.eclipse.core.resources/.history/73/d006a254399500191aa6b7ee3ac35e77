@@ -1,0 +1,5 @@
+package apiAutomationWithRestAssured;
+
+public class TC_002_Get_Request {
+
+}

@@ -1,0 +1,45 @@
+package apiAutomationWithRestAssured;
+
+import org.testng.Assert;
+import org.testng.annotations.Test;
+
+import io.restassured.RestAssured;
+import io.restassured.http.Method;
+import io.restassured.response.Response;
+import io.restassured.specification.RequestSpecification;
+
+public class TC_001_Get_Request {
+
+	
+	@Test
+	public void getWeatherDetails()
+	{
+		
+		//Getting base URL
+		RestAssured.baseURI = "http://restapi.demoqa.com/utilities/weather/city";
+		
+		//Request specification 
+		RequestSpecification httpRequest = RestAssured.given();
+		
+		//Request & Response specification 
+		Response response = httpRequest.request(Method.GET, "/Dhaka");
+		
+		//Printing response body
+		String responseBody = response.getBody().asString();
+		System.out.println("Response body is " +responseBody);
+		
+		//Validating response Code and printing in the console 
+		int statusCode = response.getStatusCode();
+		Assert.assertEquals(statusCode, 200);
+		System.out.println("Response code is " +statusCode);
+		
+		//Validating status line and printing in the console 
+		String statusLine = response.getStatusLine();
+		Assert.assertEquals(statusLine, "HTTP/1.1 200 OK");
+		System.out.println("Status Line is " + statusLine);
+		
+		
+		
+	}
+	
+}

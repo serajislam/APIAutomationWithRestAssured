@@ -1,0 +1,46 @@
+package apiAutomationWithRestAssured;
+
+import org.json.simple.JSONObject;
+import org.testng.Assert;
+
+import io.restassured.RestAssured;
+import io.restassured.http.Method;
+import io.restassured.response.Response;
+import io.restassured.specification.RequestSpecification;
+
+public class TC_003_POST_Request {
+	
+	@SuppressWarnings("unchecked")
+	public void register()
+	{
+		RestAssured.baseURI = "http://restapi.demoqa.com/customer";
+		
+		RequestSpecification httpRequest = RestAssured.given();
+		
+		JSONObject requestParams = new JSONObject();
+		requestParams.put("FirstName", "JohnXYZ");
+		requestParams.put("LastName", "XYZJohn");
+		requestParams.put("UserName", "JohnXYZ");
+		requestParams.put("Password", "JohnXYZxyx");
+		requestParams.put("Email", "JohnXYZ@gmail.com");
+		
+		httpRequest.header("Content-Type","application/json");
+		
+		httpRequest.body(requestParams.toJSONString());
+		
+		Response response = httpRequest.request(Method.POST, "/register");
+		
+		int statusCode = response.getStatusCode();
+		Assert.assertEquals(statusCode, 201);
+		System.out.println("Status code is " + statusCode);
+		
+		
+		String statusLine = response.getStatusLine();
+		System.out.println("Status line is " +statusLine);
+		
+		String successCode = response.jsonPath().get();
+		System.out.println("Success code is " +successCode);
+		Assert.assertEquals(successCode, "SuccessCode");
+	}
+
+}
