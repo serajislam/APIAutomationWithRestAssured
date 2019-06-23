@@ -18,6 +18,8 @@ public class TC_001_Get_Request {
 		
 		// request specification
 		RequestSpecification httpRequest = RestAssured.given();
+		httpRequest.headers("Content-Type","applicatiob/json");
+		
 		Response response = httpRequest.request(Method.GET, "/Dhaka");
 		
 		//printing response body

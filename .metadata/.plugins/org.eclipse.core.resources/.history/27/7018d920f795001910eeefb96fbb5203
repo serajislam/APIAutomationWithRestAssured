@@ -1,0 +1,5 @@
+package apiAutomationWithRestAssured;
+
+public class TC_005_Delete_Request {
+
+}

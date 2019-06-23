@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="ASCII"?>
 <application:Application xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:advanced="http://www.eclipse.org/ui/2010/UIModel/application/ui/advanced" xmlns:application="http://www.eclipse.org/ui/2010/UIModel/application" xmlns:basic="http://www.eclipse.org/ui/2010/UIModel/application/ui/basic" xmlns:menu="http://www.eclipse.org/ui/2010/UIModel/application/ui/menu" xmlns:ui="http://www.eclipse.org/ui/2010/UIModel/application/ui" xmi:id="_Uj-MIJVBEem6iLdn7mfC6A" elementId="org.eclipse.e4.legacy.ide.application" contributorURI="platform:/plugin/org.eclipse.platform" selectedElement="_Uj-zMJVBEem6iLdn7mfC6A" bindingContexts="_Uj_bOpVBEem6iLdn7mfC6A">
-  <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;workbench>&#xD;&#xA;&lt;mruList>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;TC_003_POST_Request.java&quot; tooltip=&quot;APIAutomation/src/test/java/apiAutomationWithRestAssured/TC_003_POST_Request.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/APIAutomation/src/test/java/apiAutomationWithRestAssured/TC_003_POST_Request.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;TC_002_Get_Request.java&quot; tooltip=&quot;APIAutomation/src/test/java/apiAutomationWithRestAssured/TC_002_Get_Request.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/APIAutomation/src/test/java/apiAutomationWithRestAssured/TC_002_Get_Request.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;TC_001_Get_Request.java&quot; tooltip=&quot;APIAutomation/src/test/java/apiAutomationWithRestAssured/TC_001_Get_Request.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/APIAutomation/src/test/java/apiAutomationWithRestAssured/TC_001_Get_Request.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.m2e.editor.MavenPomEditor&quot; name=&quot;pom.xml&quot; tooltip=&quot;APIAutomation/pom.xml&quot;>&#xD;&#xA;&lt;persistable path=&quot;/APIAutomation/pom.xml&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;/mruList>&#xD;&#xA;&lt;/workbench>"/>
+  <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;workbench>&#xD;&#xA;&lt;mruList>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;TC_006_Put_Request.java&quot; tooltip=&quot;APIAutomation/src/test/java/apiAutomationWithRestAssured/TC_006_Put_Request.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/APIAutomation/src/test/java/apiAutomationWithRestAssured/TC_006_Put_Request.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;TC_005_Delete_Request.java&quot; tooltip=&quot;APIAutomation/src/test/java/apiAutomationWithRestAssured/TC_005_Delete_Request.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/APIAutomation/src/test/java/apiAutomationWithRestAssured/TC_005_Delete_Request.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;TC_004_POST_Request.java&quot; tooltip=&quot;APIAutomation/src/test/java/apiAutomationWithRestAssured/TC_004_POST_Request.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/APIAutomation/src/test/java/apiAutomationWithRestAssured/TC_004_POST_Request.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;TC_003_POST_Request.java&quot; tooltip=&quot;APIAutomation/src/test/java/apiAutomationWithRestAssured/TC_003_POST_Request.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/APIAutomation/src/test/java/apiAutomationWithRestAssured/TC_003_POST_Request.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;TC_002_Get_Request.java&quot; tooltip=&quot;APIAutomation/src/test/java/apiAutomationWithRestAssured/TC_002_Get_Request.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/APIAutomation/src/test/java/apiAutomationWithRestAssured/TC_002_Get_Request.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;TC_001_Get_Request.java&quot; tooltip=&quot;APIAutomation/src/test/java/apiAutomationWithRestAssured/TC_001_Get_Request.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/APIAutomation/src/test/java/apiAutomationWithRestAssured/TC_001_Get_Request.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.m2e.editor.MavenPomEditor&quot; name=&quot;pom.xml&quot; tooltip=&quot;APIAutomation/pom.xml&quot;>&#xD;&#xA;&lt;persistable path=&quot;/APIAutomation/pom.xml&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;/mruList>&#xD;&#xA;&lt;/workbench>"/>
   <tags>activeSchemeId:org.eclipse.ui.defaultAcceleratorConfiguration</tags>
   <tags>ModelMigrationProcessor.001</tags>
   <children xsi:type="basic:TrimmedWindow" xmi:id="_Uj-zMJVBEem6iLdn7mfC6A" elementId="IDEWindow" contributorURI="platform:/plugin/org.eclipse.platform" selectedElement="_Uj-zMZVBEem6iLdn7mfC6A" label="%trimmedwindow.label.eclipseSDK" x="0" y="0" width="1024" height="768">
@@ -105,7 +105,7 @@
               </children>
             </children>
             <children xsi:type="basic:PartSashContainer" xmi:id="_Uj-zPpVBEem6iLdn7mfC6A" containerData="8109" selectedElement="_Uj-zP5VBEem6iLdn7mfC6A">
-              <children xsi:type="basic:PartSashContainer" xmi:id="_Uj-zP5VBEem6iLdn7mfC6A" containerData="6236" selectedElement="_Uj-zQJVBEem6iLdn7mfC6A" horizontal="true">
+              <children xsi:type="basic:PartSashContainer" xmi:id="_Uj-zP5VBEem6iLdn7mfC6A" containerData="5040" selectedElement="_Uj-zQJVBEem6iLdn7mfC6A" horizontal="true">
                 <children xsi:type="advanced:Placeholder" xmi:id="_Uj-zQJVBEem6iLdn7mfC6A" elementId="org.eclipse.ui.editorss" containerData="7500" ref="_Uj-0nJVBEem6iLdn7mfC6A"/>
                 <children xsi:type="basic:PartSashContainer" xmi:id="_Uj-zQZVBEem6iLdn7mfC6A" toBeRendered="false" containerData="2500">
                   <children xsi:type="basic:PartStack" xmi:id="_Uj-zQpVBEem6iLdn7mfC6A" elementId="org.eclipse.mylyn.tasks.ui.views.tasksMStack" toBeRendered="false" containerData="5000">
@@ -135,7 +135,7 @@
                   </children>
                 </children>
               </children>
-              <children xsi:type="basic:PartSashContainer" xmi:id="_Uj-zSZVBEem6iLdn7mfC6A" containerData="3764" selectedElement="_Uj-zSpVBEem6iLdn7mfC6A" horizontal="true">
+              <children xsi:type="basic:PartSashContainer" xmi:id="_Uj-zSZVBEem6iLdn7mfC6A" containerData="4960" selectedElement="_Uj-zSpVBEem6iLdn7mfC6A" horizontal="true">
                 <children xsi:type="basic:PartSashContainer" xmi:id="_Uj-zSpVBEem6iLdn7mfC6A" containerData="5000" selectedElement="_Uj-zS5VBEem6iLdn7mfC6A" horizontal="true">
                   <children xsi:type="basic:PartStack" xmi:id="_Uj-zS5VBEem6iLdn7mfC6A" elementId="bottom" containerData="9000" selectedElement="_Uj-zUJVBEem6iLdn7mfC6A">
                     <tags>org.eclipse.e4.secondaryDataStack</tags>
@@ -241,7 +241,7 @@
         <tags>EditorStack</tags>
         <tags>active</tags>
         <children xsi:type="basic:Part" xmi:id="_Uj-0npVBEem6iLdn7mfC6A" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="TC_001_Get_Request.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.png" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;TC_001_Get_Request.java&quot; partName=&quot;TC_001_Get_Request.java&quot; title=&quot;TC_001_Get_Request.java&quot; tooltip=&quot;APIAutomation/src/test/java/apiAutomationWithRestAssured/TC_001_Get_Request.java&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/APIAutomation/src/test/java/apiAutomationWithRestAssured/TC_001_Get_Request.java&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;692&quot; selectionTopPixel=&quot;79&quot;/>&#xD;&#xA;&lt;/editor>"/>
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;TC_001_Get_Request.java&quot; partName=&quot;TC_001_Get_Request.java&quot; title=&quot;TC_001_Get_Request.java&quot; tooltip=&quot;APIAutomation/src/test/java/apiAutomationWithRestAssured/TC_001_Get_Request.java&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/APIAutomation/src/test/java/apiAutomationWithRestAssured/TC_001_Get_Request.java&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;12&quot; selectionOffset=&quot;295&quot; selectionTopPixel=&quot;0&quot;/>&#xD;&#xA;&lt;/editor>"/>
           <tags>Editor</tags>
           <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
           <tags>removeOnHide</tags>
@@ -285,12 +285,6 @@
             <tags>menuContribution:popup</tags>
             <tags>popup:#OverviewRulerContext</tags>
           </menus>
-        </children>
-        <children xsi:type="basic:Part" xmi:id="_fiIJgJVGEemWFbwYx1H2Rg" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="TC_003_POST_Request.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.png" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;TC_003_POST_Request.java&quot; partName=&quot;TC_003_POST_Request.java&quot; title=&quot;TC_003_POST_Request.java&quot; tooltip=&quot;APIAutomation/src/test/java/apiAutomationWithRestAssured/TC_003_POST_Request.java&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/APIAutomation/src/test/java/apiAutomationWithRestAssured/TC_003_POST_Request.java&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;1119&quot; selectionTopPixel=&quot;394&quot;/>&#xD;&#xA;&lt;/editor>"/>
-          <tags>Editor</tags>
-          <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
-          <tags>removeOnHide</tags>
         </children>
       </children>
     </sharedElements>
@@ -481,7 +475,7 @@
       </menus>
       <toolbar xmi:id="_Uj-15ZVBEem6iLdn7mfC6A" elementId="com.experitest.stae.views.RepositoryView" visible="false"/>
     </sharedElements>
-    <sharedElements xsi:type="basic:Part" xmi:id="_Uj-15pVBEem6iLdn7mfC6A" elementId="org.testng.eclipse.ResultView" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" label="Results of running class TC_002_Get_Request" iconURI="platform:/plugin/org.testng.eclipse/icons/full/main16/testng_blur.gif" tooltip="" closeable="true">
+    <sharedElements xsi:type="basic:Part" xmi:id="_Uj-15pVBEem6iLdn7mfC6A" elementId="org.testng.eclipse.ResultView" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" label="Results of running class TC_006_Put_Request" iconURI="platform:/plugin/org.testng.eclipse/icons/full/main16/testng_blur.gif" tooltip="" closeable="true">
       <persistedState key="originalCompatibilityViewBundle" value="org.testng.eclipse"/>
       <persistedState key="originalCompatibilityViewClass" value="org.testng.eclipse.ui.TestRunnerViewPart"/>
       <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;view FailureRunView.tab.title.ratio=&quot;500&quot; HierarchyRunView.tab.title.ratio=&quot;500&quot; orientation=&quot;2&quot; page=&quot;0&quot;/>"/>
@@ -500,7 +494,7 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_Uj-1-ZVBEem6iLdn7mfC6A" elementId="org.eclipse.ui.workbench.file">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_zmzyEJVBEemWFbwYx1H2Rg" elementId="print" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Print" command="_UkApAZVBEem6iLdn7mfC6A"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_r42CwJXvEemiAcaO5NmEWg" elementId="print" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Print" command="_UkApAZVBEem6iLdn7mfC6A"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_Uj-2BpVBEem6iLdn7mfC6A" elementId="group.edit" toBeRendered="false">
         <tags>toolbarSeparator</tags>
@@ -535,7 +529,7 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_Uj-2VJVBEem6iLdn7mfC6A" elementId="org.eclipse.ui.workbench.navigate">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_zm2OUJVBEemWFbwYx1H2Rg" elementId="org.eclipse.ui.window.pinEditor" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Pin Editor" type="Check" command="_UkAouJVBEem6iLdn7mfC6A"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_r46UMJXvEemiAcaO5NmEWg" elementId="org.eclipse.ui.window.pinEditor" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Pin Editor" type="Check" command="_UkAouJVBEem6iLdn7mfC6A"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_Uj-2X5VBEem6iLdn7mfC6A" elementId="group.editor" toBeRendered="false">
         <tags>toolbarSeparator</tags>
@@ -2505,7 +2499,7 @@
   <addons xmi:id="_UkAqHJVBEem6iLdn7mfC6A" elementId="MinMax Addon" contributorURI="platform:/plugin/org.eclipse.platform" contributionURI="bundleclass://org.eclipse.e4.ui.workbench.addons.swt/org.eclipse.e4.ui.workbench.addons.minmax.MinMaxAddon"/>
   <addons xmi:id="_UkAqHZVBEem6iLdn7mfC6A" elementId="org.eclipse.ui.workbench.addon.0" contributorURI="platform:/plugin/org.eclipse.platform" contributionURI="bundleclass://org.eclipse.e4.ui.workbench/org.eclipse.e4.ui.internal.workbench.addons.HandlerProcessingAddon"/>
   <addons xmi:id="_UkAqHpVBEem6iLdn7mfC6A" elementId="SplitterAddon" contributionURI="bundleclass://org.eclipse.e4.ui.workbench.addons.swt/org.eclipse.e4.ui.workbench.addons.splitteraddon.SplitterAddon"/>
-  <addons xmi:id="_IYS0IKimEeS11vbz3f9ezw" elementId="org.eclipse.ui.ide.addon.0" contributorURI="platform:/plugin/org.eclipse.ui.ide" contributionURI="bundleclass://org.eclipse.ui.ide/org.eclipse.ui.internal.ide.addons.SaveAllDirtyPartsAddon"/>
+  <addons xmi:id="_rhM-0JXvEemiAcaO5NmEWg" elementId="org.eclipse.ui.ide.addon.0" contributionURI="bundleclass://org.eclipse.ui.ide/org.eclipse.ui.internal.ide.addons.SaveAllDirtyPartsAddon"/>
   <addons xmi:id="_UkAqIJVBEem6iLdn7mfC6A" elementId="org.eclipse.ui.ide.application.addon.0" contributorURI="platform:/plugin/org.eclipse.ui.ide.application" contributionURI="bundleclass://org.eclipse.ui.ide.application/org.eclipse.ui.internal.ide.application.addons.ModelCleanupAddon"/>
   <categories xmi:id="_UkAqIZVBEem6iLdn7mfC6A" elementId="org.eclipse.team.ui.category.team" name="Team" description="Actions that apply when working with a Team"/>
   <categories xmi:id="_UkAqIpVBEem6iLdn7mfC6A" elementId="org.eclipse.ui.category.views" name="Views" description="Commands for opening views"/>

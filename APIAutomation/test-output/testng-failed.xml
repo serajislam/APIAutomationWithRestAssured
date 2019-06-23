@@ -3,11 +3,11 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="apiAutomationWithRestAssured.TC_001_Get_Request">
+      <class name="apiAutomationWithRestAssured.TC_004_POST_Request">
         <methods>
-          <include name="getWeatherDetails"/>
+          <include name="addData"/>
         </methods>
-      </class> <!-- apiAutomationWithRestAssured.TC_001_Get_Request -->
+      </class> <!-- apiAutomationWithRestAssured.TC_004_POST_Request -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

@@ -1,0 +1,5 @@
+package apiAutomationWithRestAssured;
+
+public class TC_006_Put_Request {
+
+}

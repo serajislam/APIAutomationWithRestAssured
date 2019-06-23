@@ -170,3 +170,77 @@
 2019-06-22 20:19:33,977 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mdsis\Desktop\APIAutomation\APIAutomation\src\main\resources
 2019-06-22 20:19:33,978 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2019-06-22 20:19:33,978 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mdsis\Desktop\APIAutomation\APIAutomation\src\test\resources
+2019-06-23 15:47:15,486 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2019-06-23 15:51:12,145 [Worker-6: Launching TC_001_Get_Request] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.sun.xml.bind:jaxb-osgi:jar:2.2.10 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2019-06-23 15:51:12,653 [Worker-6: Launching TC_001_Get_Request] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-23 15:51:12,653 [Worker-6: Launching TC_001_Get_Request] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mdsis\Desktop\APIAutomation\APIAutomation\src\main\resources
+2019-06-23 15:51:12,655 [Worker-6: Launching TC_001_Get_Request] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-23 15:51:12,655 [Worker-6: Launching TC_001_Get_Request] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mdsis\Desktop\APIAutomation\APIAutomation\src\test\resources
+2019-06-23 15:56:41,750 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-23 15:56:41,751 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mdsis\Desktop\APIAutomation\APIAutomation\src\main\resources
+2019-06-23 15:56:41,756 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-23 15:56:41,757 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mdsis\Desktop\APIAutomation\APIAutomation\src\test\resources
+2019-06-23 16:10:18,198 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-23 16:10:18,199 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mdsis\Desktop\APIAutomation\APIAutomation\src\main\resources
+2019-06-23 16:10:18,203 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-23 16:10:18,204 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mdsis\Desktop\APIAutomation\APIAutomation\src\test\resources
+2019-06-23 16:10:23,669 [Worker-9: Launching TC_002_Get_Request] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-23 16:10:23,669 [Worker-9: Launching TC_002_Get_Request] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mdsis\Desktop\APIAutomation\APIAutomation\src\main\resources
+2019-06-23 16:10:23,671 [Worker-9: Launching TC_002_Get_Request] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-23 16:10:23,671 [Worker-9: Launching TC_002_Get_Request] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mdsis\Desktop\APIAutomation\APIAutomation\src\test\resources
+2019-06-23 16:11:11,471 [Worker-9: Launching TC_004_POST_Request] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-23 16:11:11,472 [Worker-9: Launching TC_004_POST_Request] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mdsis\Desktop\APIAutomation\APIAutomation\src\main\resources
+2019-06-23 16:11:11,473 [Worker-9: Launching TC_004_POST_Request] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-23 16:11:11,474 [Worker-9: Launching TC_004_POST_Request] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mdsis\Desktop\APIAutomation\APIAutomation\src\test\resources
+2019-06-23 16:15:47,868 [Worker-23: Launching TC_004_POST_Request] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-23 16:15:47,869 [Worker-23: Launching TC_004_POST_Request] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mdsis\Desktop\APIAutomation\APIAutomation\src\main\resources
+2019-06-23 16:15:47,871 [Worker-23: Launching TC_004_POST_Request] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-23 16:15:47,872 [Worker-23: Launching TC_004_POST_Request] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mdsis\Desktop\APIAutomation\APIAutomation\src\test\resources
+2019-06-23 16:16:45,794 [Worker-26: Launching TC_004_POST_Request] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-23 16:16:45,794 [Worker-26: Launching TC_004_POST_Request] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mdsis\Desktop\APIAutomation\APIAutomation\src\main\resources
+2019-06-23 16:16:45,796 [Worker-26: Launching TC_004_POST_Request] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-23 16:16:45,797 [Worker-26: Launching TC_004_POST_Request] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mdsis\Desktop\APIAutomation\APIAutomation\src\test\resources
+2019-06-23 16:19:59,269 [Worker-28: Launching TC_004_POST_Request] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-23 16:19:59,270 [Worker-28: Launching TC_004_POST_Request] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mdsis\Desktop\APIAutomation\APIAutomation\src\main\resources
+2019-06-23 16:19:59,272 [Worker-28: Launching TC_004_POST_Request] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-23 16:19:59,274 [Worker-28: Launching TC_004_POST_Request] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mdsis\Desktop\APIAutomation\APIAutomation\src\test\resources
+2019-06-23 16:21:49,920 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-23 16:21:49,920 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mdsis\Desktop\APIAutomation\APIAutomation\src\main\resources
+2019-06-23 16:21:49,921 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-23 16:21:49,922 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mdsis\Desktop\APIAutomation\APIAutomation\src\test\resources
+2019-06-23 16:22:55,019 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-23 16:22:55,019 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mdsis\Desktop\APIAutomation\APIAutomation\src\main\resources
+2019-06-23 16:22:55,020 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-23 16:22:55,020 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mdsis\Desktop\APIAutomation\APIAutomation\src\test\resources
+2019-06-23 16:23:13,336 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-23 16:23:13,336 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mdsis\Desktop\APIAutomation\APIAutomation\src\main\resources
+2019-06-23 16:23:13,338 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-23 16:23:13,338 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mdsis\Desktop\APIAutomation\APIAutomation\src\test\resources
+2019-06-23 16:24:45,421 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-23 16:24:45,422 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mdsis\Desktop\APIAutomation\APIAutomation\src\main\resources
+2019-06-23 16:24:45,424 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-23 16:24:45,424 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mdsis\Desktop\APIAutomation\APIAutomation\src\test\resources
+2019-06-23 16:32:26,272 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-23 16:32:26,273 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mdsis\Desktop\APIAutomation\APIAutomation\src\main\resources
+2019-06-23 16:32:26,275 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-23 16:32:26,276 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mdsis\Desktop\APIAutomation\APIAutomation\src\test\resources
+2019-06-23 16:40:25,266 [Worker-9: Launching TC_005_Delete_Request] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-23 16:40:25,267 [Worker-9: Launching TC_005_Delete_Request] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mdsis\Desktop\APIAutomation\APIAutomation\src\main\resources
+2019-06-23 16:40:25,268 [Worker-9: Launching TC_005_Delete_Request] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-23 16:40:25,268 [Worker-9: Launching TC_005_Delete_Request] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mdsis\Desktop\APIAutomation\APIAutomation\src\test\resources
+2019-06-23 16:46:57,570 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-23 16:46:57,570 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mdsis\Desktop\APIAutomation\APIAutomation\src\main\resources
+2019-06-23 16:46:57,571 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-23 16:46:57,571 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mdsis\Desktop\APIAutomation\APIAutomation\src\test\resources
+2019-06-23 16:47:30,882 [Worker-36: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-23 16:47:30,883 [Worker-36: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mdsis\Desktop\APIAutomation\APIAutomation\src\main\resources
+2019-06-23 16:47:30,887 [Worker-36: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-23 16:47:30,887 [Worker-36: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mdsis\Desktop\APIAutomation\APIAutomation\src\test\resources
+2019-06-23 17:00:53,138 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-23 17:00:53,138 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mdsis\Desktop\APIAutomation\APIAutomation\src\main\resources
+2019-06-23 17:00:53,138 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-23 17:00:53,138 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mdsis\Desktop\APIAutomation\APIAutomation\src\test\resources
+2019-06-23 17:02:00,515 [Worker-39: Launching TC_006_Put_Request] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-23 17:02:00,516 [Worker-39: Launching TC_006_Put_Request] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mdsis\Desktop\APIAutomation\APIAutomation\src\main\resources
+2019-06-23 17:02:00,517 [Worker-39: Launching TC_006_Put_Request] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-23 17:02:00,517 [Worker-39: Launching TC_006_Put_Request] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mdsis\Desktop\APIAutomation\APIAutomation\src\test\resources

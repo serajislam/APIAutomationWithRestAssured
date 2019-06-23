@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="2238" started-at="2019-06-23T00:19:37Z" finished-at="2019-06-23T00:19:39Z">
+  <suite name="Default suite" duration-ms="1732" started-at="2019-06-23T21:02:01Z" finished-at="2019-06-23T21:02:03Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="2238" started-at="2019-06-23T00:19:37Z" finished-at="2019-06-23T00:19:39Z">
-      <class name="apiAutomationWithRestAssured.TC_002_Get_Request">
-        <test-method status="PASS" signature="googleMapTest()[pri:0, instance:apiAutomationWithRestAssured.TC_002_Get_Request@457e2f02]" name="googleMapTest" duration-ms="2204" started-at="2019-06-23T00:19:37Z" finished-at="2019-06-23T00:19:39Z">
+    <test name="Default test" duration-ms="1732" started-at="2019-06-23T21:02:01Z" finished-at="2019-06-23T21:02:03Z">
+      <class name="apiAutomationWithRestAssured.TC_006_Put_Request">
+        <test-method status="PASS" signature="updateData()[pri:0, instance:apiAutomationWithRestAssured.TC_006_Put_Request@457e2f02]" name="updateData" duration-ms="1694" started-at="2019-06-23T21:02:01Z" finished-at="2019-06-23T21:02:03Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- googleMapTest -->
-      </class> <!-- apiAutomationWithRestAssured.TC_002_Get_Request -->
+        </test-method> <!-- updateData -->
+      </class> <!-- apiAutomationWithRestAssured.TC_006_Put_Request -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
